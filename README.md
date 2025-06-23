@@ -16,5 +16,5 @@ Source: [Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personalit
 - Checked and corrected column data types
 
 ## Files Included
-- cleaned_marketing_campaign.xlsx – Cleaned data
+- cleaned_marketing_campaign.csv – Cleaned data
 - README.md – Summary of changes
