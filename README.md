@@ -1,10 +1,10 @@
-# elevate-task-1
+##elevate-task-1
 Data Cleaning and Preprocessing using Excel.
-#Dataset
+##Dataset
 Name: Customer Personality Analysis  
 Source: [Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
-#Tools Used
+##Tools Used
 - Microsoft Excel
 
 ## Summary of Cleaning:
